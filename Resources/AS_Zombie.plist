@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>zombie1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{139,87},{40,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{40,60}</string>
+			</dict>
+			<key>zombie1R.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{199,120},{40,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,60}</string>
+			</dict>
+			<key>zombie2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{79,88},{40,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{40,60}</string>
+			</dict>
+			<key>zombie2R.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{139,127},{40,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{40,60}</string>
+			</dict>
+			<key>zombie3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{79,0},{44,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,60}</string>
+			</dict>
+			<key>zombie3R.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{139,0},{44,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,60}</string>
+			</dict>
+			<key>zombie4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{199,0},{44,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,60}</string>
+			</dict>
+			<key>zombie4R.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{79,44},{44,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,60}</string>
+			</dict>
+			<key>zombie5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{139,44},{43,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{43,60}</string>
+			</dict>
+			<key>zombie5R.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{199,60},{43,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{43,60}</string>
+			</dict>
+			<key>icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{79,128},{50,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,42}</string>
+			</dict>
+			<key>arch.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{79,232}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{79,232}</string>
+			</dict>
+			<key>Arrow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,232},{80,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,10}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>AS_Zombie.png</string>
+			<key>realTextureFileName</key>
+			<string>AS_Zombie.png</string>
+			<key>size</key>
+			<string>{256,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

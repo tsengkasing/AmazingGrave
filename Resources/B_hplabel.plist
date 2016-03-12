@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>B_hpbar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{884,0},{351,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{351,11}</string>
+			</dict>
+			<key>B_hpbarblood.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{884,351},{351,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{351,11}</string>
+			</dict>
+			<key>B_hpbarblood_Boss.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{873,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{873,11}</string>
+			</dict>
+			<key>B_hpbar_Boss.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{873,0},{873,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{873,11}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>B_hplabel.png</string>
+			<key>realTextureFileName</key>
+			<string>B_hplabel.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

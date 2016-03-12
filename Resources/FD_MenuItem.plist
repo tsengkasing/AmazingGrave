@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>F_cagain.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{735,0},{113,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,72}</string>
+			</dict>
+			<key>F_cagainOn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{848,0},{113,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,72}</string>
+			</dict>
+			<key>F_cbegin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{735,72},{113,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,72}</string>
+			</dict>
+			<key>F_cbeginOn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{147,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{147,88}</string>
+			</dict>
+			<key>F_ccontinue.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{848,72},{113,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,72}</string>
+			</dict>
+			<key>F_ccontinueOn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{147,0},{147,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{147,88}</string>
+			</dict>
+			<key>F_cexit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,88},{113,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,72}</string>
+			</dict>
+			<key>F_cexitOn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{294,0},{147,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{147,88}</string>
+			</dict>
+			<key>F_cmenu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,88},{113,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,72}</string>
+			</dict>
+			<key>F_cmenuOn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{441,0},{147,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{147,88}</string>
+			</dict>
+			<key>F_cnext.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{226,88},{113,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,72}</string>
+			</dict>
+			<key>F_cnextOn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{588,0},{147,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{147,88}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>FD_MenuItem.png</string>
+			<key>realTextureFileName</key>
+			<string>FD_MenuItem.png</string>
+			<key>size</key>
+			<string>{1024,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

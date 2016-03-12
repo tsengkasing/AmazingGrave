@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>UI/again.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{349,906},{113,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{113,72}</string>
+			</dict>
+			<key>UI/End.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,500},{536,396}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{538,397}</string>
+			</dict>
+			<key>UI/music.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{168,906},{171,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{171,67}</string>
+			</dict>
+			<key>UI/newgame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,5},{91,58}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{92,58}</string>
+			</dict>
+			<key>UI/next.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{431,906},{113,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{113,72}</string>
+			</dict>
+			<key>UI/pause.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,5},{483,485}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{483,485}</string>
+			</dict>
+			<key>UI/Play.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{513,906},{113,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{113,72}</string>
+			</dict>
+			<key>UI/resume.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{498,177},{92,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{92,58}</string>
+			</dict>
+			<key>UI/characters.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,906},{153,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{153,100}</string>
+			</dict>
+			<key>UI/exit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{168,983},{41,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{41,39}</string>
+			</dict>
+			<key>UI/settings.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{550,106},{39,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{41,50}</string>
+			</dict>
+			<key>UI/space.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{498,5},{162,42}}</string>
+				<key>offset</key>
+				<string>{0,4}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{162,54}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>GameUI.png</string>
+			<key>realTextureFileName</key>
+			<string>GameUI.png</string>
+			<key>size</key>
+			<string>{613,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>613</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

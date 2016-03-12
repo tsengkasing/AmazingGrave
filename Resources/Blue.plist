@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>blue (1).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,593},{131,127}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{131,127}</string>
+			</dict>
+			<key>blue (2).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,410},{183,174}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{183,174}</string>
+			</dict>
+			<key>blue (3).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{206,207}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{206,207}</string>
+			</dict>
+			<key>blue (4).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,207},{203,203}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{203,203}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Blue.png</string>
+			<key>realTextureFileName</key>
+			<string>Blue.png</string>
+			<key>size</key>
+			<string>{206,724}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>206</integer>
+			<key>height</key>
+			<integer>724</integer>
+		</dict>
+	</dict>
+</plist>

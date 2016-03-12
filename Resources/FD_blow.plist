@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>F_Light1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{350,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>F_Light2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{350,0},{350,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>F_Light3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,350},{350,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>F_Light4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{350,350},{350,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>F_Light5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,700},{350,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>F_Light6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{350,700},{350,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+			<key>F_Light7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1050},{350,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{350,350}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>FD_blow.png</string>
+			<key>realTextureFileName</key>
+			<string>FD_blow.png</string>
+			<key>size</key>
+			<string>{1024,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

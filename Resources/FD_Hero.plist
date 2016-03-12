@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>F_LittleStar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1734,0},{873,1308}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{873,1308}</string>
+			</dict>
+			<key>F_LittleStar-hurt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2607,0},{877,1300}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{877,1300}</string>
+			</dict>
+			<key>F_skill.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1415},{347,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{347,94}</string>
+			</dict>
+			<key>F_LittleStar-walk_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{873,1415}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{873,1415}</string>
+			</dict>
+			<key>F_LittleStar-walk_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{873,0},{861,1396}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{861,1396}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>FD_Hero.png</string>
+			<key>realTextureFileName</key>
+			<string>FD_Hero.png</string>
+			<key>size</key>
+			<string>{4096,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>4096</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

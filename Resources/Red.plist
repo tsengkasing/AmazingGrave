@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>red (1).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{632,152},{114,111}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{114,111}</string>
+			</dict>
+			<key>red (2).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{790,146},{141,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{141,126}</string>
+			</dict>
+			<key>red (3).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{790,0},{153,146}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{153,146}</string>
+			</dict>
+			<key>red (4).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{632,0},{152,158}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{152,158}</string>
+			</dict>
+			<key>red (5).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{433,0},{199,168}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{199,168}</string>
+			</dict>
+			<key>red (6).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{224,178}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{224,178}</string>
+			</dict>
+			<key>red (7).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,178},{194,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{194,182}</string>
+			</dict>
+			<key>red (8).png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{224,0},{209,186}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{209,186}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Red.png</string>
+			<key>realTextureFileName</key>
+			<string>Red.png</string>
+			<key>size</key>
+			<string>{943,360}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>943</integer>
+			<key>height</key>
+			<integer>360</integer>
+		</dict>
+	</dict>
+</plist>

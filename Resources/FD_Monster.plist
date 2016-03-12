@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>F_BagSprite.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{336,208},{200,185}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,185}</string>
+			</dict>
+			<key>F_Banana.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,399},{237,413}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{237,413}</string>
+			</dict>
+			<key>F_Bat.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{237,399},{381,153}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{381,153}</string>
+			</dict>
+			<key>F_Boss.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,812},{199,398}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{199,398}</string>
+			</dict>
+			<key>F_bullet.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{525,99},{59,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{59,58}</string>
+			</dict>
+			<key>F_Donggua.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{336,0},{189,208}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{189,208}</string>
+			</dict>
+			<key>F_ThunderBall.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{336,399}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{336,399}</string>
+			</dict>
+			<key>F_midic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{525,0},{99,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{99,71}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>FD_Monster.png</string>
+			<key>realTextureFileName</key>
+			<string>FD_Monster.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

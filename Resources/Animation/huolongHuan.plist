@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>huolong1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{165,0},{85,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{85,57}</string>
+			</dict>
+			<key>huolong2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{165,57},{84,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,56}</string>
+			</dict>
+			<key>huolong3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,66},{84,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,55}</string>
+			</dict>
+			<key>huolong4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{250,0},{82,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,59}</string>
+			</dict>
+			<key>huolong5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{83,0},{82,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,65}</string>
+			</dict>
+			<key>huolong6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{83,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{83,66}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>huolongHuan.png</string>
+			<key>realTextureFileName</key>
+			<string>huolongHuan.png</string>
+			<key>size</key>
+			<string>{332,121}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>332</integer>
+			<key>height</key>
+			<integer>121</integer>
+		</dict>
+	</dict>
+</plist>

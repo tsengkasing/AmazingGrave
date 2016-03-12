@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>magiccircle_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{284,284}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{284,284}</string>
+			</dict>
+			<key>magiccircle_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,284},{284,284}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{284,284}</string>
+			</dict>
+			<key>magiccircle_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,568},{284,284}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{284,284}</string>
+			</dict>
+			<key>magiccircle_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,852},{284,284}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{284,284}</string>
+			</dict>
+			<key>magiccircle_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1136},{284,284}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{284,284}</string>
+			</dict>
+			<key>magiccircle_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1420},{284,284}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{284,284}</string>
+			</dict>
+			<key>magiccircle_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1704},{284,284}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{284,284}</string>
+			</dict>
+			<key>magiccircle_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{284,0},{284,284}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{284,284}</string>
+			</dict>
+			<key>magiccircle_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{568,0},{284,284}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{284,284}</string>
+			</dict>
+			<key>magiccircle_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{852,0},{284,284}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{284,284}</string>
+			</dict>
+			<key>magiccircle_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1136,0},{284,284}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{284,284}</string>
+			</dict>
+			<key>magiccircle_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1420,0},{284,284}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{284,284}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>MagicCircle.png</string>
+			<key>realTextureFileName</key>
+			<string>MagicCircle.png</string>
+			<key>size</key>
+			<string>{1704,1988}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1704</integer>
+			<key>height</key>
+			<integer>1988</integer>
+		</dict>
+	</dict>
+</plist>

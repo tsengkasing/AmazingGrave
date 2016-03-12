@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>arrow1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{80,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,13}</string>
+			</dict>
+			<key>arrow10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{80,0},{80,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,13}</string>
+			</dict>
+			<key>arrow2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{160,0},{80,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,13}</string>
+			</dict>
+			<key>arrow3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{240,0},{80,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,13}</string>
+			</dict>
+			<key>arrow4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{320,0},{80,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,13}</string>
+			</dict>
+			<key>arrow5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{400,0},{80,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,13}</string>
+			</dict>
+			<key>arrow6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{480,0},{80,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,13}</string>
+			</dict>
+			<key>arrow7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{560,0},{80,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,13}</string>
+			</dict>
+			<key>arrow8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{640,0},{80,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,13}</string>
+			</dict>
+			<key>arrow9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{720,0},{80,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,13}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Arrows.png</string>
+			<key>realTextureFileName</key>
+			<string>Arrows.png</string>
+			<key>size</key>
+			<string>{1024,32}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>32</integer>
+		</dict>
+	</dict>
+</plist>

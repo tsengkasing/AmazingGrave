@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="600" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="game2" tilewidth="32" tileheight="32">
+  <image source="F_game.png" width="1920" height="640"/>
+ </tileset>
+ <layer name="ground" width="600" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt3He7CAQAxeGb9t5772mvZJRRqMgsFTIKFVFEZmRrWlFmyk4RhVJGspK099577/l+Cfd57nPPH+8H+H2Ac0puV1BQitKUoSzlKE8FKlKJypxJFc6iKtWoTg3O5hxqUova1OFczqMu9ajP+VzAhTSgIRfRiMY0oSnNaM7FXEILLuUyLqclrWjNFbShLe1oz5VcRQc60omS6U1vetOb3vSmN73buPdqruFaOtOF6+hKN67nBrrTgxvpSS9uojd96Es/+jOAmxnIIG5hMEMYyjCGM4KRjOJWbuN27uBO7mI0YxjLOMZzNxOYyD3cyyQmM4WpTGM69zGD+3kgvelNb3rTm970prcQemcyi9nMYS7zmM+DLOAhHmYhi3iExSzhUR5jKctYzuM8wQqe5ClWsorVrOFp1vIM61jPBjayiWfZzHNs4Xm28gIv8hIv8wqv8hqv8wZv8hZv8w7v8h7vpze96U1vetOb3vQWQu8HfMhHfMwnfMpnfM4XfMlXfM03fMt3fM8P/MhP/Mwv/Mpv/M4f/Mlf/M0//Mt/FJQoKNiOEmzPDuzITuzMLuzKbuzOHuzJXuzNPuzLfuzPARzIQRzMIRzKYRzOESXSm970pje96U1verd975EcxdEcw7Ecx/GcwImcxMmcwqmcxumcQUlKUZoylKUc5alARSpRmTOpwllUpRrVqcHZnENNalGbOpzLedSlHvU5nwu4kAY05CIa0ZgmNKUZzbmYS2iR3vSmN73pTW9601sIvZdyGZfTkla05gra0JZ2tOdKrqIDHenE1VzDtXSmC9fRlW5czw10pwc30pNe3ERv+tCXfvRnADczkEHcwmCGMJRhDGcEIxnFrdzG7dzBndzFaMYwlnHpTW9605ve9KY3vYXQO567mcBE7uFeJjGZKUxlGtO5jxnczwPMZBazmcNc5jGfB1nAQzzMQhbxCItZwqM8xlKWsZzHeYIVPMlTrGQVq1nD06zlGdaxng1sZBPPspnn2MLzbE1vetOb3vSmN73pLYTe4raXTG9605ve9KY3venNP0P2oelNb3rTm970prdo9Ra3vWR605ve9KY3velNb/4Zsg9Nb3rTm970pje9Rau3uO0l05ve9KY3velNb3rzz5B9aHrTm970pje96S1avcVtL5ne9KY3velNb3rTm3+G7EPTm970pje96U1v0eotbnvJ9KY3velNb3rTm978M2Qfmt70pje96U1veotWb3HbS6Y3velNb3rTm9705p8h+9D0pje96U1vetNbtHqL214yvelNb3rTm970pndb9/4PnGQUMA==
+  </data>
+ </layer>
+</map>

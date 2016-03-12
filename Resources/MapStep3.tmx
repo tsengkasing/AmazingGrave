@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="bg2" tilewidth="32" tileheight="32">
+  <image source="bg2.png" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="601" name="Outside_A2" tilewidth="32" tileheight="32">
+  <image source="Outside_A2.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="793" name="Inside_A4" tilewidth="32" tileheight="32">
+  <image source="Inside_A4.png" width="512" height="480"/>
+ </tileset>
+ <tileset firstgid="1033" name="Inside_A5" tilewidth="32" tileheight="32">
+  <image source="Inside_A5.png" width="256" height="512"/>
+ </tileset>
+ <tileset firstgid="1161" name="Inside_C" tilewidth="32" tileheight="32">
+  <image source="Inside_C.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1417" name="Outside_A3" tilewidth="32" tileheight="32">
+  <image source="Outside_A3.png" width="512" height="256"/>
+  <tile id="0">
+   <properties>
+    <property name="Collidable" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="background" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1eN6FgAAhuFvS4vLWLZt27bNU8hu2S0t27axbNu2rfsg+lc/7jN4rvcNDwoEhjOCkYxiNGMYyzjGM4GJTGIyU4hgKtOYzgxmEsksZjOHucxjPgtYyCIWs4SlLGM5K1jJKlazhrWsYz0b2MgmNrOFrWxjOzvYyS52s4e97GM/BzhIFIc4zBGOcozjnOAkpzjNGc5yjvNc4CKXuMwVrnKN69zgJre4zR3uco/7POAhj3jME57yjOe84CWveM0b3vKO93zgI5/4zBe+8o3v/OAnv+gZCAR60Zs+9KUf/RnAQAYxmCEMZRjhDGcEIxnFaMYwlnGMZwITmcRkphDBVKYxnRnMJJJZzGYOc5nHfBawkEUsZglLWcZyVrCSVaxmDWtZx3o2sJFNbGYLW9nGdnawk13sZg972cd+DnCQKA5xmCMc5RjHOcFJTnGaM5zlHOe5wEUucZkrXOUa17nBTW5xmzvc5R73ecBDHvGYJzzlGc95wUte8Zo3vOUd7/nARz7xmS985Rvf+cFPfvGbgD6CCCYa0YlBTGIRQmziEJd4xCcBoSQkEYlJQlKSkZwUpCQVYaQmDWlJR3oykJFMZCYLWclGdnKQk1zkJg95yUd+ClCQQhSmCEUpRnFKUJJSlKYMZSlHeSpQkUpUpgpVqUZ1alCTWtSmDnWpR30a0JBGNKYJTWlGc1rQkla0pg1taUd7OtCRTnSmC13pRnd6BP17e/WbQLAuCSYa0YlBTGIRQmziEJd4xCcBoSQkEYlJQlKSkZwUpCQVYaQmDeFB/3/wf1d/v6s/IbVqsw==
+  </data>
+ </layer>
+ <layer name="Layer1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSigLehiGlkYAKzpINE=
+  </data>
+ </layer>
+ <layer name="Layer2" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUwIAUM/F4FIyCUYAAQzmPjOZz8sFoWYkbAABrxAOh
+  </data>
+ </layer>
+ <layer name="Layer3" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGAb2BHAtuPBztHWkAAP/mAd0=
+  </data>
+ </layer>
+ <layer name="Layer4" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BwgUcspKl/TKJ6XOATieZ8ppK9oqy0VT/Y7CUVDEV7SU3D1LKX1DRMLXtH9UIAMfFOC3uJiXda2DtQeXOoAACFDglH
+  </data>
+ </layer>
+ <objectgroup name="Object">
+  <object name="Heros" x="64" y="448" width="32" height="32"/>
+  <object name="Monster1" x="512" y="384" width="32" height="32"/>
+  <object name="Monster4" x="800" y="512" width="32" height="32"/>
+  <object name="Monster3" x="768" y="160" width="32" height="32"/>
+  <object name="Monster2" x="576" y="160" width="32" height="32"/>
+  <object name="BurningFire" x="288" y="448" width="32" height="32"/>
+ </objectgroup>
+ <layer name="obscatle" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BwgU5W2qrHZw6pmFr20lL9YLOXVDAU7R2JesnNH4PBv6TmcVLFqaVmMNpLjXKS1mXsQAEAs3MlKw==
+  </data>
+ </layer>
+</map>

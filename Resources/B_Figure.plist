@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>B_boat.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3326,0},{192,192}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{192,192}</string>
+			</dict>
+			<key>B_bossbullet.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{767,990},{32,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,32}</string>
+			</dict>
+			<key>B_dailog_box.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{767,839},{1280,151}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1280,151}</string>
+			</dict>
+			<key>B_huolong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{767,1075}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{767,1075}</string>
+			</dict>
+			<key>B_littlestar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1597,431},{333,1106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{333,1106}</string>
+			</dict>
+			<key>B_sensen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1597,0},{431,1078}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{431,1078}</string>
+			</dict>
+			<key>B_zijian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1075},{830,839}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{830,839}</string>
+			</dict>
+			<key>B_zijian_magic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{767,0},{830,839}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{830,839}</string>
+			</dict>
+			<key>B_Star.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2675,0},{262,651}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{262,651}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>B_Figure.png</string>
+			<key>realTextureFileName</key>
+			<string>B_Figure.png</string>
+			<key>size</key>
+			<string>{4096,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>4096</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

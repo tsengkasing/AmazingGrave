@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ArrowShoot">
+      <UniqueIdentifier>{dbdc02bc-8690-41ad-9cf5-7fc9b4ff43cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\FastDash">
+      <UniqueIdentifier>{8626ba56-9ee5-44b6-a8bf-04829d16fd3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\FinalWar">
+      <UniqueIdentifier>{dc0e6316-d9cf-46f0-bd1d-4aec3f571117}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\FlappyBird">
+      <UniqueIdentifier>{6cc23e42-6599-448d-8db6-d7c88ffde010}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Entity.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GraveMainScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LevelInfo.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LevelSelect.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LoadScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MainSceneFirst.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Numeric.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SceneAllComplete.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SceneIntro.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SceneMComplete.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SceneSelect.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\StoryPlayer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TextReader.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ArrowShoot\ArrowSpriteLayer.cpp">
+      <Filter>src\ArrowShoot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ArrowShoot\FailLayer.cpp">
+      <Filter>src\ArrowShoot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ArrowShoot\FirstScene.cpp">
+      <Filter>src\ArrowShoot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ArrowShoot\MainScene.cpp">
+      <Filter>src\ArrowShoot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ArrowShoot\MainStep2Scene.cpp">
+      <Filter>src\ArrowShoot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ArrowShoot\MainStep3Scene.cpp">
+      <Filter>src\ArrowShoot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ArrowShoot\MapScene.cpp">
+      <Filter>src\ArrowShoot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ArrowShoot\MonsterSprite.cpp">
+      <Filter>src\ArrowShoot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ArrowShoot\PauseLayer.cpp">
+      <Filter>src\ArrowShoot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ArrowShoot\WinLayer.cpp">
+      <Filter>src\ArrowShoot</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FastDash\Entity.cpp">
+      <Filter>src\FastDash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FastDash\FastDash.cpp">
+      <Filter>src\FastDash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FastDash\FD_BossScene.cpp">
+      <Filter>src\FastDash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FastDash\FD_BulletCreater.cpp">
+      <Filter>src\FastDash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FastDash\FD_Hero.cpp">
+      <Filter>src\FastDash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FastDash\FD_LabelLayer.cpp">
+      <Filter>src\FastDash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FastDash\FD_Monster.cpp">
+      <Filter>src\FastDash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FastDash\FD_MonsterCreater.cpp">
+      <Filter>src\FastDash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FastDash\FlowWord.cpp">
+      <Filter>src\FastDash</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FinalWar\Boss.cpp">
+      <Filter>src\FinalWar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FinalWar\Boss_Bullet.cpp">
+      <Filter>src\FinalWar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FinalWar\Boss_Hero.cpp">
+      <Filter>src\FinalWar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FinalWar\Boss_LabelLayer.cpp">
+      <Filter>src\FinalWar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FinalWar\Boss_Monster.cpp">
+      <Filter>src\FinalWar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FinalWar\FinalWar.cpp">
+      <Filter>src\FinalWar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FlappyBird\BarLayer.cpp">
+      <Filter>src\FlappyBird</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FlappyBird\BirdSprite.cpp">
+      <Filter>src\FlappyBird</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FlappyBird\FirstGameLayer.cpp">
+      <Filter>src\FlappyBird</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FlappyBird\GameOver.cpp">
+      <Filter>src\FlappyBird</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FlappyBird\Help.cpp">
+      <Filter>src\FlappyBird</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FlappyBird\LandLayer.cpp">
+      <Filter>src\FlappyBird</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FlappyBird\Numeric.cpp">
+      <Filter>src\FlappyBird</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Entity.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GraveMainScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LevelInfo.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LevelSelect.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LoadScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MainSceneFirst.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Numeric.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SceneAllComplete.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SceneIntro.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SceneMComplete.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SceneSelect.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\StoryPlayer.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TextReader.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ArrowShoot\ArrowSpriteLayer.h">
+      <Filter>src\ArrowShoot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ArrowShoot\FailLayer.h">
+      <Filter>src\ArrowShoot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ArrowShoot\FirstScene.h">
+      <Filter>src\ArrowShoot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ArrowShoot\MainScene.h">
+      <Filter>src\ArrowShoot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ArrowShoot\MainStep2Scene.h">
+      <Filter>src\ArrowShoot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ArrowShoot\MainStep3Scene.h">
+      <Filter>src\ArrowShoot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ArrowShoot\MapScene.h">
+      <Filter>src\ArrowShoot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ArrowShoot\MonsterSprite.h">
+      <Filter>src\ArrowShoot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ArrowShoot\PauseLayer.h">
+      <Filter>src\ArrowShoot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ArrowShoot\WinLayer.h">
+      <Filter>src\ArrowShoot</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FastDash\Entity.h">
+      <Filter>src\FastDash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FastDash\FastDash.h">
+      <Filter>src\FastDash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FastDash\FD_BossScene.h">
+      <Filter>src\FastDash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FastDash\FD_BulletCreater.h">
+      <Filter>src\FastDash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FastDash\FD_Hero.h">
+      <Filter>src\FastDash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FastDash\FD_LabelLayer.h">
+      <Filter>src\FastDash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FastDash\FD_Monster.h">
+      <Filter>src\FastDash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FastDash\FD_MonsterCreater.h">
+      <Filter>src\FastDash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FastDash\FlowWord.h">
+      <Filter>src\FastDash</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FinalWar\Boss.h">
+      <Filter>src\FinalWar</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FinalWar\Boss_Bullet.h">
+      <Filter>src\FinalWar</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FinalWar\Boss_Hero.h">
+      <Filter>src\FinalWar</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FinalWar\Boss_LabelLayer.h">
+      <Filter>src\FinalWar</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FinalWar\Boss_Monster.h">
+      <Filter>src\FinalWar</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FinalWar\FinalWar.h">
+      <Filter>src\FinalWar</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FlappyBird\BarLayer.h">
+      <Filter>src\FlappyBird</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FlappyBird\BirdSprite.h">
+      <Filter>src\FlappyBird</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FlappyBird\FirstGameLayer.h">
+      <Filter>src\FlappyBird</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FlappyBird\GameOver.h">
+      <Filter>src\FlappyBird</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FlappyBird\Help.h">
+      <Filter>src\FlappyBird</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FlappyBird\LandLayer.h">
+      <Filter>src\FlappyBird</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FlappyBird\Numeric.h">
+      <Filter>src\FlappyBird</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
